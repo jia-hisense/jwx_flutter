@@ -1,0 +1,15 @@
+{
+  "@@locale": "zh_CN",
+  "appName": "易知课堂",
+  "homepageTitle": "首页",
+  "login": "登录",
+  "logout": "退出登录",
+  "usernameHintText": "请输入用户名",
+  "passwordHintText": "请输入密码",
+  "usernameIsRequired": "用户名不能为空",
+  "passwordIsRequired": "密码不能为空",
+  "emailIsRequired": "邮箱地址不能为空",
+  "phoneNumberIsRequired": "手机号码不能为空",
+  "emailIsInvalid": "请输入正确的邮箱地址",
+  "phoneNumberInvalid": "请输入正确的手机号码"
+}

@@ -1,0 +1,15 @@
+{
+  "@@locale": "en_US",
+  "appName": "YiZhiLiveLesson",
+  "homepageTitle": "Home",
+  "login": "Login",
+  "logout": "Logout",
+  "usernameHintText": "Please input your username",
+  "passwordHintText": "Please input your password",
+  "usernameIsRequired": "Username is required",
+  "passwordIsRequired": "Password is required",
+  "emailIsRequired": "Your email is required",
+  "phoneNumberIsRequired": "Your phone number is required",
+  "emailIsInvalid": "Please provide a valid email address",
+  "phoneNumberInvalid": "Please provide a valid phone number"
+}
